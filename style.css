@@ -1,0 +1,109 @@
+@import url('https://fonts.cdnfonts.com/css/inter');
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    font-family: "inter" sans-serif;
+    background: #f5f5f5;
+}
+
+.logo {
+    position: absolute;
+    width: 117px;
+    height: 30px;
+    left: 138px;
+    top: 39px;
+    line-height: 30px;
+    font-weight: 700;
+    color:#262C55;
+    font-size:normal;
+}
+
+.logo h4 {
+    position: absolute;
+    width:117px;
+    height:30px;
+    left:60px;
+    top:5px;
+    color:#262C55;
+    font-size:22px;
+    font-weight: 700px;
+    line-height: 30px;
+}
+
+.section-unveling {
+    position: absolute;
+    width: 306px;
+    height: 45px;
+    left: 97px;
+    top: 209px;
+}
+
+.section-unveling h4 {
+   font-family: 'Inter';
+   font-style: normal;
+   font-style: 600;
+   font-size: 24px;
+   line-height: 40px;
+   color: #262c55;
+}
+
+.section-something {
+   position: absolute;
+   width: 574px;
+   height: 119px;
+   left:97px;
+   top:260px;
+}
+
+.section-something p {
+    line-height: 30px;
+}
+
+.section-something h1 {
+    font-family: 'merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size:50px;
+    line-height: 60px;
+    background: linear-gradient(92.71deg, #3D79EF 56.53%, #F1A5C2 82.54%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip:text ;
+}
+
+.image {
+    position: absolute;
+    width: 500px;
+    height:327.4px;
+    left: 830px;
+    top: 227px;
+    background: url(image);
+    border-radius: 5px;
+}
+
+.mail {
+    position: absolute;
+    width: 235px;
+    height: 24px;
+    left: 134px;
+    top: 535px;
+    font-family: 'Inter';
+    font-size: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #262C55;
+}
+
+.mail-box {
+    position: absolute;
+    left: 6.74%;
+    right: 91.32%;
+    top: 85.4%;
+    bottom: 10.88%;
+    background: #3D79EF;
+}
+
+/* mobile*/
+
+
